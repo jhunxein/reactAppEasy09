@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "How many team members can I invite?",
+    "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla reprehenderit eaque dolores autem ratione at sint sunt nesciunt deleniti culpa, quae reiciendis modi, vel tenetur non! Laboriosam autem rem non?"
+  },
+  {
+    "id": 2,
+    "question": "What is the maximum file upload size?",
+    "answer": "No more than 2GB. All files in your account must fit your allotted storage space."
+  },
+  {
+    "id": 3,
+    "question": "How do I reset my password?",
+    "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla reprehenderit eaque dolores autem ratione at sint sunt nesciunt deleniti culpa, quae reiciendis modi, vel tenetur non! Laboriosam autem rem non?"
+  },
+  {
+    "id": 4,
+    "question": "Can I cancel my subscription?",
+    "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet temporibus deleniti incidunt?"
+  },
+  {
+    "id": 5,
+    "question": "Do you provide additional support?",
+    "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet temporibus deleniti incidunt?"
+  }
+]
