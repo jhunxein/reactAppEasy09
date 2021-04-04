@@ -5,7 +5,6 @@ import illustrationMobile from './assets/images/illustration-woman-online-mobile
 import bgPatternMobile from './assets/images/bg-pattern-mobile.svg';
 
 import illustrationDesktop from './assets/images/illustration-woman-online-desktop.svg';
-import bgPatternDesktop from './assets/images/bg-pattern-desktop.svg';
 import bgBoxDesktop from './assets/images/illustration-box-desktop.svg';
 
 import Faqs from './components/Faqs';
@@ -44,8 +43,6 @@ function App() {
 					) : (
 						<div className="faq--ills--wrapper">
 							<img src={illustrationDesktop} alt="..." className="faq--ills__img" />
-
-							{/* <img src={bgPatternDesktop} alt="..." className="faq--ills__pattern" /> */}
 						</div>
 					)}
 					<div className="faq--context--wrapper">
