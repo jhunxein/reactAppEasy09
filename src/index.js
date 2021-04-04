@@ -4,7 +4,6 @@ import App from './App';
 
 import 'normalize.css';
 import './css/index.css';
-import './css/buttons.css';
 
 ReactDOM.render(
 	<React.StrictMode>

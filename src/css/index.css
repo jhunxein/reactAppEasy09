@@ -22,8 +22,9 @@
 	--clr-divider: hsl(240, 5%, 91%);
 
 	/* MEDIA QUERIES */
-	--desktop-md: 820px;
+	--desktop-md: 980px;
 	--desktop-lg: 1440px;
+	--faqs-max-width: 919px;
 
 	/* TRANSITION */
 	--transition: all 300ms ease;
